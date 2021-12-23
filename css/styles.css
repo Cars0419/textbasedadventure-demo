@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Pushster', cursive;
+    color: white;
+    text-align: center;
+    font-size: 200px;
+}
+
+h2 {
+    font-family: 'Pushster', cursive;
+    color: white;
+    text-align: center;
+    font-size: 100px; 
+}
+
+h3 {
+    font-family: 'Pushster', cursive;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic; 
+}
+
+#startbutton {
+background-color: black;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+text-align: center;
+font-size: 50px;
+position: relative;
+left: 980px;
+top: 100px;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 300px;
+    margin: 100px;
+    margin-bottom: 200px;
+}
+
+.noscroll::-webkit-scrollbar {
+    display: none;
+}
+
+.choice1 {
+background-color: black;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+text-align: center;
+font-size: 50px;
+position: relative;
+top: 200px;
+left: 500px;
+margin-bottom: 50px;
+}
+
+.choice2 {
+background-color: black;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+text-align: center;
+font-size: 50px;
+position: relative;
+bottom: 8vh;
+right:-1500px;
+margin-bottom: 50px;
+}
